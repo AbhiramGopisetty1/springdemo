@@ -1,0 +1,12 @@
+{
+<<<<<<< HEAD
+  "workflow": "OpenJDK8SpringMySQLApp",
+=======
+  "workflow": "OpenJDK8SpringSQLApp",
+>>>>>>> 7e36d0e21eb2dd80498259f79eff574e2d6ec369
+  "scores": {
+    "commanderTests":40,
+    "cadetTests":40,
+    "pmd": 20
+  }
+}
